@@ -1,0 +1,2 @@
+hypre.hypre_solver = BiCGSTAB
+hypre.hypre_preconditioner = BoomerAMG
